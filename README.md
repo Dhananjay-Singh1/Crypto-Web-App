@@ -8,10 +8,10 @@ This web application provides real-time cryptocurrency prices and news updates u
 3. Detailed Coin Information: Displays specific details for selected cryptocurrencies
 
 # Technologies Used
-1.<b>React</b>: Frontend framework for building user interfaces.
-2.<b>Redux:</b> State management library for managing application state.
-3.<b>Redux Toolkit:</b> Official, opinionated, batteries-included toolset for efficient Redux development.
-4.<b>RapidAPI:</b> Platform for accessing APIs, used for fetching live cryptocurrency data and news.
+1.<b>React:</b> Frontend framework for building user interfaces. <br />
+2.<b>Redux:</b> State management library for managing application state. <br />
+3.<b>Redux Toolkit:</b> Official, opinionated, batteries-included toolset for efficient Redux development.<br />
+4.<b>RapidAPI:</b> Platform for accessing APIs, used for fetching live cryptocurrency data and news. <br />
 
 # APIs Used
 
