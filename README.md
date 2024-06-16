@@ -2,6 +2,10 @@
 
 This web application provides real-time cryptocurrency prices and news updates using Redux for state management and Redux Toolkit for simplified Redux usage.
 
+# Live
+
+You can access it here: https://cryptos-web-app.netlify.app/
+
 # Features
 1. Live Cryptocurrency Prices: Fetches real-time prices for various cryptocurrencies.
 2. Latest News: Provides up-to-date news articles related to cryptocurrencies.
