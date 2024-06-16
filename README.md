@@ -1,8 +1,29 @@
-# React + Vite
+# Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web application provides real-time cryptocurrency prices and news updates using Redux for state management and Redux Toolkit for simplified Redux usage.
 
-Currently, two official plugins are available:
+# Features
+1. Live Cryptocurrency Prices: Fetches real-time prices for various cryptocurrencies.
+2. Latest News: Provides up-to-date news articles related to cryptocurrencies.
+3. Detailed Coin Information: Displays specific details for selected cryptocurrencies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Technologies Used
+1.<b>React</b>: Frontend framework for building user interfaces.
+2.<b>Redux:</b> State management library for managing application state.
+3.<b>Redux Toolkit:</b> Official, opinionated, batteries-included toolset for efficient Redux development.
+4.<b>RapidAPI:</b> Platform for accessing APIs, used for fetching live cryptocurrency data and news.
+
+# APIs Used
+
+1. Cryptocurrency Prices & Coin Ranking API: https://coinranking1.p.rapidapi.com
+2. Cryptocurrency News API: https://cryptocurrency-news2.p.rapidapi.com
+
+# Installation
+
+1. Clone the repository: git clone https://github.com/Dhananjay-Singh1/Crypto-Web-App.git
+2. Install dependencies: npm install
+3. Create a .env file in the root directory and add your RapidAPI key:
+   VITE_RAPIDAPI_KEY =  ''
+4. Start the application: npm run start/dev.
+5. Open http://localhost:3000 in your browser.
+
